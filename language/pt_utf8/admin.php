@@ -1,6 +1,6 @@
 <?php
 // $Id: admin.php,v 1.8 2012/01/22 09:22:18 nobu Exp $
-// Traduzido para o Portugues do Brasil por: Miraldo Antoninho Ohse (m_ohse@hotmail.com).
+// Traduzido para o Portugues do Brasil por: Miraldo Antoninho Ohse AKA Leco ou Leco1 (ohsepoa@gmail.com).
 
 define('_AM_FORM_EDIT', 'Editar o formulário de contato');
 define('_AM_FORM_NEW', 'Criar novo formulário de contato');
@@ -9,7 +9,7 @@ define('_AM_FORM_MTIME', 'Atualização');
 define('_AM_FORM_DESCRIPTION', 'Descrição');
 define('_AM_INS_TEMPLATE', 'Adição de modelo');
 define('_AM_FORM_ACCEPT_GROUPS', 'Grupos permitidos');
-define('_AM_FORM_ACCEPT_GROUPS_DESC', 'Este formulário de contato possibilita a configuração dos grupos');
+define('_AM_FORM_ACCEPT_GROUPS_DESC', 'Este formulário de contato possibilita a configuração dos Grupos');
 define('_AM_FORM_DEFS', 'Definições do formulário');
 define('_AM_FORM_DEFS_DESC', '<a href="help.php#form" target="_blank">Definições</a> <small>Tipos: text checkbox radio textarea selecione a constante aceito pelo arquivo mail</small>');
 define('_AM_FORM_PRIM_CONTACT', 'Contato pessoal');
