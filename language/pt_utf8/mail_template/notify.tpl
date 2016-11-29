@@ -6,7 +6,7 @@ Foi enviada uma nova mensagem de {FROM_USER} para {TO_USER}.
 {VALUES}-------
 {MSG_URL}
 
------------
+--------------
 
 Você está recebendo está mensagem  porque escolheu ser notificado quando comentários forem adicioandos neste {X_ITEM_TYPE}..
 
